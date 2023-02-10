@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-continer {
+    background-size: cover;
+    height: 100vh;
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png);
+}
+
+.card-continer {
+    background-color: white;
+    height: 200px;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 5px;
+}
+
+.paragraph {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.main-heading {
+    font-family: "Bree Serif";
+    font-size: 30px;
+    color: #5652ab;
+}
+
+.learn-more-button {
+    color: #171f46;
+    background-color: #ffffff;
+    font-family: 'Roboto';
+    font-size: 12px;
+    font-weight: 500;
+    width: 126px;
+    height: 38px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d7dfe9;
+    border-radius: 8px;
+    margin-right: 5px;
+}
+
+.save-draft-button {
+    color: #ffffff;
+    background-color: #5752ab;
+    font-family: 'Roboto';
+    font-size: 12px;
+    font-weight: 500;
+    width: 126px;
+    height: 38px;
+    border-width: 0px;
+    border-radius: 8px;
+    margin-left: 5px;
+}
